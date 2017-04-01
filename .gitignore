@@ -5,6 +5,8 @@ Distribution/list_smargo-*
 # backup/swap file for vi
 *~
 *.swp
+*.rej
+*.orig
 
 # build directories
 /build/
